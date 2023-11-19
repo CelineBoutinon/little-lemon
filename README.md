@@ -1,9 +1,9 @@
+![little_lemon_logo_small](https://github.com/CelineBoutinon/little-lemon/assets/143210563/591c0036-f1d9-46c7-8fdf-e90fc978ff6f)
 
-![Alt text](little_lemon_logo_small.png)
 
 
 # BUILD A RELATIONAL DATABASE SYSTEM IN MYSQL WITH A PYTHON CLIENT
-![Alt text](Badge_small.jpg)
+![Badge_small](https://github.com/CelineBoutinon/little-lemon/assets/143210563/97c01696-f475-41ff-a55c-76238142e074)
 
 Capstone project for the META database engineer specialization on Coursera
 
