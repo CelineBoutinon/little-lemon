@@ -41,7 +41,7 @@ The goal of the project is to build a database system for Little Lemon restauran
 ## Skills acquired
 * Create an entity relationship diagram using MySQL Workbench
 * Use MySQL Workbench to forward engineer the database and tables and populate data
-* Perform CRUD operations
+* Perform CRUD operations with SQL and with a Python client
 * Use the Python connector class to access the database
 * Create a dashboard using Tableau software to analyse business KPIs
 
